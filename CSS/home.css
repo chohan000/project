@@ -35,7 +35,8 @@ body {
     padding-bottom: 10px;
 }
 
-.service-description {
+.service-description { 
+
     color: #555555;
     line-height: 1.5;
     font-size: 14px;
